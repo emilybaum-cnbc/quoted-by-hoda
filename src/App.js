@@ -26,7 +26,7 @@ function App() {
 
       <p>&nbsp;</p>
       <p align="center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ewPXQsVdtcw" title="Misty Copeland Shares How She Deals With Critics And Trolls | Quoted By With Hoda | TODAY Originals" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/rJkt7JFSGFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>
       <p>&nbsp;</p>
       <p><br />
