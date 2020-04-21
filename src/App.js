@@ -37,7 +37,7 @@ function App() {
             Entry Category:
           </td>
           <td class="define-right">
-            Category #39: Outstanding New Approaches Arts, Lifestyle & Culture
+            Category #39: Outstanding New Approaches Arts, Lifestyle &amp; Culture
           </td>
         </tr>
 

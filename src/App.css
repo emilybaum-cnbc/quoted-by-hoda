@@ -15,7 +15,8 @@ body,
 
     .text-right {
       text-align: right;
-      background-color: #D3D3D360
+      background-color: #D3D3D360;
+      text-decoration: bold;
     }
 
     .center {
